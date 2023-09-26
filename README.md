@@ -5,6 +5,8 @@ This system utilizes a content-based filtering algorithm to recommend food items
 # Overview
 The Food Recommender system is designed to provide personalized food recommendations to users based on their preferences. It takes into account various features such as food category, restaurant location, food description, and food rating to generate relevant recommendations.
 
+link: https://streamlit-model-deployment.onrender.com/
+
 # Features
 User Preferences: The system gets the unique user food preferences, including food category, restaurant location, and food description form a database
 
